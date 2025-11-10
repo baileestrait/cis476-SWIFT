@@ -18,6 +18,10 @@ struct Location: Identifiable {
     let imageNames: [String]
     let link: String
     
+    static func == (lhs: Location, rhs: Location) -> Bool {
+        lhs.id == rhs.id
+    }
+    
     // Identifiable
     var id: String {
         name + cityName
