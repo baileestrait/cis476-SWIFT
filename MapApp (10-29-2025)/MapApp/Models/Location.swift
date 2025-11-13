@@ -10,7 +10,7 @@ import MapKit;
 
 // packs the kind of data we need for a location
 // lookup meaning of Identifiable later, it can be confusing
-struct Location: Identifiable {
+struct Location: Identifiable, Equatable {
     let name: String
     let cityName: String
     let coordinates: CLLocationCoordinate2D

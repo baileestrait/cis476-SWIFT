@@ -25,12 +25,13 @@ class LocationsViewModel: ObservableObject {
     
     /// The visible region on the map
     @Published var mapRegion: MKCoordinateRegion = MKCoordinateRegion()
+    let mapSpan = MKCoordinateSpan(latitudeDelta: 0.1, longitudeDelta: 0.1)
     
     /// Controls whether the list of locations is shown or hidden
     @Published var showLocationsList: Bool = false
     
-    /// Default map zoom span (the visible area size)
-    let mapSpan = MKCoordinateSpan(latitudeDelta: 0.1, longitudeDelta: 0.1)
+    //Show location detail via sheet
+    @Published var sheetLocation: Location? = nil
     
     
     // Initialization
