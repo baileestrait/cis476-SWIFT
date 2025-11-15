@@ -14,7 +14,7 @@ struct LocationsView: View {
 //    @State private var mapRegion: MKCoordinateRegion = MKCoordinateRegion(
 //        center: CLLocationCoordinate2D(latitude: 41.9009, longitude: 12.4833),
 //        span: MKCoordinateSpan(latitudeDelta: 0.1, longitudeDelta: 0.1))
-    
+
     var body: some View {
         ZStack {
             Map(coordinateRegion: $vm.mapRegion)
