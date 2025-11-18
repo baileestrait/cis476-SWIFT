@@ -1,18 +1,22 @@
 Locations and coordinates (latitude, longitude)
 
 
-Harrison Plaza Fountain - 34.807201234569064, -87.67868112097757
+Harrison Plaza Fountain: 34.807201234569064, -87.67868112097757
 
 
-George H. Carroll Lion Habitat - 34.80737581093776, -87.67826733868624
+George H. Carroll Lion Habitat: 34.80737581093776, -87.67826733868624
 
 
-Wesleyan Hall - 34.80897492764919, -87.67904384727635
+Wesleyan Hall: 34.80897492764919, -87.67904384727635
 
 
-UNA Planetarium and Observatory - 34.80939534121268, -87.68239245678065
+UNA Planetarium and Observatory: 34.80939534121268, -87.68239245678065
 
 
-Rogers Hall - 34.80602247693997, -87.67933866642629
+Rogers Hall: 34.80602247693997, -87.67933866642629
 
-Pope's Tavern Museum - 34.80512467422004, -87.67655868107751
+
+Pope's Tavern Museum: 34.80512467422004, -87.67655868107751
+
+
+Note: Add descriptions, URLs, images
