@@ -65,7 +65,7 @@ class LocationsDataService {
             name: "Memorial Amphitheater",
             cityName: "Florence",
             coordinates: CLLocationCoordinate2D(latitude: 34.80814, longitude: -87.6797),
-            description: "Amphitheater!",
+            description: "The amphitheater existed as early as 1836, with the stage being created in 1919. To honor the students who left to fight in World War I, Susan Jones Price wished to construct the amphitheater, and in 1934 the Civil Works Administration built it. Over the years it has undergone various changes and hosted many events and bands. The six columns on the stage honor the six former students who died during WWI.",
             imageNames: [
                 "amp1",
                 "amp2",
